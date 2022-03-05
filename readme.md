@@ -12,7 +12,6 @@ I am a web developer and a web designer. Here I am learning markdown.
 ##### Hira
 ###### Hira
 
-<br/>
 
 <!---How to use paragraph--->
 <p>I am Hira. I am a student of Ashutush Government College, Boalkhali</p>
