@@ -2,7 +2,6 @@
 Hi I am Hira <br/>
 I am a web developer and a web designer. Here I am learning markdown.
 
----
 
 <!---How to use heading--->
 # Hira
@@ -23,7 +22,7 @@ _This is also an Italic text_
 <br/>
 
 ### Strikthrough
----
+
 
 ~~auinfaf~~
 
@@ -31,13 +30,12 @@ _This is also an Italic text_
 <br/>
 
 ## Bold Text
----
 **This is a bold text**
 <br/>
 <br/>
 
 ## Single line code
----
+
 `Single line code`
 <br/>
 `This is inline`  
@@ -73,7 +71,7 @@ header{
 <br>
 
 ## Ordered List
----
+
 1. Apple
 2. android  
     1. honor  
@@ -83,7 +81,7 @@ header{
 3. google
 
 ## Unordered List
----
+
 - item 1
 - item 1
 - item 1
@@ -99,7 +97,7 @@ header{
 <br/>
 
 ## Task List
----
+
 - [x] Task1
 - [x] Task1
 - [] Task1
@@ -108,21 +106,21 @@ header{
 <br/>
 
 ## Link
----
+
 https://www.facebook.com
 
 <br>
 <br>
 
 ## disable Link
----
+
 `https://www.facebook.com`
 
 <br>
 <br>
 
 ##  Link syntax
----
+
 [I am Hira](https://www.facebook.com)
 
 
@@ -131,7 +129,7 @@ https://www.facebook.com
 <br>
 
 ##  image syntax
----
+
 <img src='img/1.jpg' width="200" style='margin-top:20px; border-radius:20px;'>
 
 
@@ -140,7 +138,7 @@ https://www.facebook.com
 <br>
 
 ##  table syntax
----
+
 | Name | Email |
 | ---- | ----- |
 | Hira | hira@gmail.com |
@@ -150,7 +148,7 @@ https://www.facebook.com
 <br/>
 
 ## Using html and css
----
+
 
 <table  style="border:1px solid #fff;">
   <tbody>
